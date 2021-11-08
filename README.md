@@ -1,5 +1,4 @@
 ### Hi there, I'm Vinicius Eduardo👋 
-[![Instagram Follow]()](https://www.instagram.com/viini_edu/)
 
 ## I'm Nineteen, Student, Developer, and Creative!!
 
