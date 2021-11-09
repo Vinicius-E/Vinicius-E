@@ -60,5 +60,5 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[merko]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=merko
+[merko]: https://github-readme-stats.vercel.app/api?username=Vinicius-E&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-E&repo=github-readme-stats&cache_seconds=86400&theme=merko
