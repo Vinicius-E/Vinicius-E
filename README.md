@@ -44,10 +44,21 @@
 
 </details>
 
+---
+
+## Stats
+| `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] | `gruvbox_light` ![gruvbox_light][gruvbox_light] |
+
+---
+
+## Repo Card
+| `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] | `gruvbox_light` ![gruvbox_light][gruvbox_light_repo] |
+
 [course]: https://www.udemy.com/course/java-curso-completo/
 [instagram]: https://www.instagram.com/viini_edu/
 [linkedin]: https://www.linkedin.com/in/vinicius-eduardo-silva-721400167/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-
+[merko]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=merko
