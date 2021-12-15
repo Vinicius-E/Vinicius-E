@@ -2,7 +2,7 @@
 
 ## I'm Nineteen, Student, Developer, and Creative!!
 
-- 🔭 I´m almost finishing a course UDEMY: [JAVA POO + PROJECTS!][course]!
+- 🔭 I´ve just finished a course on UDEMY: [JAVA POO + PROJECTS!][course]!
 - 💞️ I’m everyday learning something, be it about programmer, about languages, or about the Universe
 - 👀 I’m looking to collaborate with the world, so I would like to create something useful
 - 🥅 Goals: be a revolucionary programmer, increase relational and formal forms 
