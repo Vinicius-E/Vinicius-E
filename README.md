@@ -29,8 +29,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 commited in [Vinicius-E/Projects](https://github.com/Vinicius-E/Projects/tree/master/Setup) 
-2.  🗣 Commited in [Vinicius-E/Currency-Converter](https://github.com/Vinicius-E/Currency-Converter)
-3 🗣 Commited in [Vinicius-E/Account_System](https://github.com/Vinicius-E/Account_System)
+2. 🗣 Commited in [Vinicius-E/Currency-Converter](https://github.com/Vinicius-E/Currency-Converter)
+3. 🗣 Commited in [Vinicius-E/Account_System](https://github.com/Vinicius-E/Account_System)
 4. 🗣 Commited in [Vinicius-E/Twitter_Bootstrap](https://github.com/Vinicius-E/Twitter_Bootstrap/tree/NewBranch)
 5. 🗣 Commited in [Vinicius-E/CreditoParaTodxs_Serasa_Project](https://github.com/Vinicius-E/CreditoParaTodxs_Serasa_Project)
 6. 🎉 Resources Free in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
