@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinicius Eduardo👋 
 
-## I'm Twenty-One years old, Jr Developer Analist, and Creative!!
+## I'm Twenty-One years old, Jr Developer Analist!!
 
 - 🔭 I´ve just finished a course on UDEMY: [JAVA POO + PROJECTS!]!
 - 💞️ I’m everyday learning something, be it about programmer, about languages, or about the Universe
