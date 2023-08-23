@@ -1,10 +1,9 @@
 ### Hi there, I'm Vinicius Eduardo👋 
 
-## I'm Twenty-One years old, Jr Developer Analyst!!
+## I'm Twenty-One years old, System Analyst and Developer!!
 
-- 🔭 I´ve just finished a course on UDEMY: [JAVA POO + PROJECTS!]!
 - 💞️ I’m everyday learning something, be it about programmer, about languages, or about the Universe
-- 👀 I’m looking to collaborate with the world, so I would like to create something useful
+- 👀 I’m looking to collaborate with the world, so I would like to share my knowledge in programming projects
 - 🥅 Goals: be a revolucionary programmer, increase relational and formal techniques 
 
 ### Languages and Tools:
