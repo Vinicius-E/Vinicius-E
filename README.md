@@ -1,11 +1,4 @@
 ### Hi there, I'm Vinicius Eduardo👋 
-
-## I'm Twenty-One years old, System Analyst and Developer!!
-
-- 💞️ I’m everyday learning something, be it about programmer, about languages, or about the Universe
-- 👀 I’m looking to collaborate with the world, so I would like to share my knowledge in programming projects
-- 🥅 Goals: be a revolucionary programmer, increase relational and formal techniques 
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
